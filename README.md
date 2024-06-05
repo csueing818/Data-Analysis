@@ -63,5 +63,5 @@
             <h3>Project 3</h3>
             <p>Data will be available soon.</p>
         </div>
-</body>
+
 </html>
