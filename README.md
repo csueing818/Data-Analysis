@@ -50,7 +50,7 @@
     <div class="container">
         <div class="portfolio-item">
             <h3>Project 1</h3>
-            <p>Data was analyzed for housing. Please click the link to view the data <a href="https://docs.google.com/spreadsheets/d/12gVLFEQVi7URMVn18D7pVvQJkQQniCOjRmKgkZ4ovdw/edit?usp=sharing">Housing Data
+            <p>Data was analyzed for housing. Please click the link to view the data <a href="https://docs.google.com/spreadsheets/d/12gVLFEQVi7URMVn18D7pVvQJkQQniCOjRmKgkZ4ovdw/edit?usp=sharing"> </a> Housing Data
             </p>
         </div>
     
