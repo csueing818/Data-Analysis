@@ -50,7 +50,8 @@
     <div class="container">
         <div class="portfolio-item">
             <h3>Project 1</h3>
-            <p>Data was analyzed for housing. Please click the link to view the data <a href="https://docs.google.com/spreadsheets/d/12gVLFEQVi7URMVn18D7pVvQJkQQniCOjRmKgkZ4ovdw/edit?usp=sharing"> Housing Data
+            <p> The project aimed to track win and loss ratio, ranking progression, and surface performance over three years. The packed circle chart was chosen to compare the types of surfaces used for 2022,2023,2024. The data was obtained from WTA tennis rankings, results, and statistical data from a github repo. Based on the data for the individuals that are not winning I would ensure that he or she is actively participating in tournaments each year. However, if he or she plays each year, I would analyze the round and the number of sets associated with each round. 
+<a href="https://docs.google.com/presentation/d/13_FZkOL1jOiwaIs5ODN9dlFQ4FC8Sof73DQR_EOzlPg/edit?usp=sharing "> Tennis KPI
             </a>
             </p>
         </div>
