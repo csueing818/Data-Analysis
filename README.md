@@ -40,13 +40,12 @@
 </head>
 <body>
     <header>
-        <h1>Portfolio</h1> 
+        <h1> Portfolio</h1> 
             </header>
             <div class="about"><h1>About Me</h1>
             <div class="greeting-paragraph">Hi,I am C.C.Sueing I am a seasoned professional with four+ years of data mining, analysis, and visualization experience in diverse sectors. Recognized for demonstrating a natural aptitude for quantitative analysis, as well as for results presentations and solutions development, I have a verifiable history of contributing directly to informed decision making throughout my career. As such, I have consistently exceeded business and performance goals, and I am adept at achieving maximum operational impacts with minimal resource expenditure. Professional focal points include data mining, root cause analysis, process automation, risk identification and analysis, insights and value extraction, and clear communication. Delivering superior administration on the latter areas of expertise requires utilization of effective organization and prioritization skills, as well as critical thinking, problem solving, attention to detail, and continuous improvement to support efficiency and productivity. 
             <p>Click the links below to view: Github Portfolio and Linkedin. </p>
-            <a href="https://github.com/csueing818?tab=repositories">Github Portfolio and </a>
-            <a href="https://www.linkedin.com/in/caleshasueing/">Linkedin</a> </div>
+            <a href="https://github.com/csueing818?tab=repositories">Github Portfolio and </a> <a href="https://www.linkedin.com/in/caleshasueing/">Linkedin</a> </div>
     <div class="container">
         <div class="portfolio-item">
             <h3>Project 1</h3>
@@ -57,7 +56,7 @@
         </div>
     
         <div class="portfolio-item">
-            <h3>Project 2 is in progress</h3>
+            <h3>Project 2</h3>
             <p> The purpose of the project was to compare book ratings, language code, and number of people who have read the books by the author. The bar graph chart was used to compare the authors book ratings on goodreads. A tree map chart was used to identify the number of people who read a particular book by the author. Highlighted tables were used to identify the language codes.The statistical data was obtained from a goodbooks github repo. Insights that I found from the data was authors whom are less known has a lower book count read by the audience. A suggestion that I would make would be to curate the members list by topic and not to include ratings to allow the reader to form their opinion about the particular book. 
 <a href="https://docs.google.com/presentation/d/11S1QSj--3TX34rTt738OHhTt_44hADdpwbb1Xt8FMkE/edit?usp=sharing "> Books KPI
             </a>
