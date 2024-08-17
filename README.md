@@ -66,7 +66,7 @@
         <div class="portfolio-item">
             <h3>Project 3</h3>
             <p>Student engagement with the course was tracked using: scores,course codes, registration and credits. Horizontal bar graphs were used to compare course codes and the number of courses for each code. Student scores were compared using a horizontal bar graph that identified the students id with their test score. Student credits were compared using a horizontal bar graph which included the level of education per region. Student registration also used a bar graph to identity the number of student who were registered or chose to unregister. Student engagement was tracked using number of clicks per students. Insights that I gained from the data were, students that were less engaged with the course did not achieve scores over 100, on a rating scale of 0-1200. A suggestion that I would recommend would be to provide the student with a detailed study plan for the month. 
-<a href="https://docs.google.com/presentation/d/1X6c3fJLcPU8RdNVZhpuByJ2zcey7VHvEwDD8yE_BTjU/edit?usp=sharing "> Books KPI
+<a href="https://docs.google.com/presentation/d/1X6c3fJLcPU8RdNVZhpuByJ2zcey7VHvEwDD8yE_BTjU/edit?usp=sharing "> Ed Tech KPI
             </a>
 </p>
         </div>
